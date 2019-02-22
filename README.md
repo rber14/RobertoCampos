@@ -1,4 +1,4 @@
 # RobertoCampos
-I have created this personal website as a form of self-education. I will continue to develope and add new features during my free time.
-I am currently doing this to deveople my UI/webdeveloper/user behavior skills.
+I have created this personal website as a form of self-education and creativity. I will continue to develop and add new features during my free time.
+I am currently doing this to deveopl my webdeveloper/UI/user behavior skills.
 This is by no means clean professional code, yet. 
